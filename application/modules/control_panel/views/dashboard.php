@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title><?php echo $title;?></title>
+</head>
+<body>
+	<h1>Dashboard Page</h1>
+</body>
+</html>
